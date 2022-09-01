@@ -69,15 +69,15 @@ git push [remote] --delete [branch-name]
 
 
 ### Push checked-out branch to a remote
-> Destination branch will have the same name as <branch-name>
+> Destination branch will have the same name as [branch-name]
 ```
 git push [remote] [branch-name]
 ```
 
 
-### Push checked-out branch to a remote
+### Push checked-out branch to another branch on a remote
 ```
-git push <remote> [source_branch]:[destination_branch]
+git push [remote] [source_branch]:[destination_branch]
 ```
 
 
