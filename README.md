@@ -15,6 +15,12 @@ git remote add [name] [URL]
 git remote remove [name]
 ```
 
+### Fetch a remote
+> Downloads objects and refs from a remote
+```
+git fetch [remote]
+```
+
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
